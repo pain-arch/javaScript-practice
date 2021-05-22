@@ -1,9 +1,9 @@
 var data = [
     ["tasdiq", 20, "Male", "B.Sc"],
     ["nusu", 19, "Male", "B.Sc"],
-    ["mim", 20, "Male", "B.Sc"],
+    ["mim", 20, "FeMale", "B.Sc"],
     ["rishan", 19, "Male", "B.Sc"],
-    ["orna", 20, "Male", "B.Sc"],
+    ["orna", 20, "FeMale", "B.Sc"],
 
 ];
 
